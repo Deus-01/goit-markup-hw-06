@@ -520,7 +520,7 @@ body {
 
 .subscr-input:not(:placeholder-shown) + .subscr-label,
 .subscr-input:focus + .subscr-label {
-  transform: translate(-10px, -90%);
+  transform: translate(-65px, 50%);
 }
 
 .input-block {
